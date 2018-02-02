@@ -1,0 +1,19 @@
+ Criptografar uma palavra
+Faça um algoritmo onde o usuário entre com um nome e o programa criptografe
+ essa senha com dígitos. Quando o usuário digitar a sequência de números criados
+  pelo programa, o mesmo deverá mostrar o nome correspondente aos números.
+
+Ex:
+
+ - IFCE
+
+I = 2
+F = 4
+C = 7
+E = 9
+
+Ao digitar o número 2479, o programa deverá imprimir na saída padrão o nome IFCE.
+
+OBS:
+  1º - O programa deverá ter um menu com as opções: criptografar senha e 
+  descriptografar senha. 
