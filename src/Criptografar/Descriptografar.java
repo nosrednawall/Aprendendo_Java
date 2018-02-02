@@ -1,0 +1,9 @@
+package Criptografar;
+
+public class Descriptografar {
+
+	public Descriptografar() {
+		// TODO Auto-generated constructor stub
+	}
+
+}
