@@ -19,6 +19,7 @@ public class PrincipalCriptografar {
 			
 		case 2:
 			Descriptografar descrypt = new Descriptografar();
+			//descrypt.Descriptografar();
 			break;
 
 		default:
